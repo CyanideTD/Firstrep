@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\qihang\documents\visual studio 2015\projects\consoleapplication45\consoleapplication45\source.cpp(39): warning C4244: 'argument': conversion from 'll' to 'int', possible loss of data
+  LINK : C:\Users\Qihang\Documents\Visual Studio 2015\Projects\ConsoleApplication45\Debug\ConsoleApplication45.exe not found or not built by the last incremental link; performing full link
+  ConsoleApplication45.vcxproj -> C:\Users\Qihang\Documents\Visual Studio 2015\Projects\ConsoleApplication45\Debug\ConsoleApplication45.exe
